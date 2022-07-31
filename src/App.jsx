@@ -2,7 +2,7 @@ import * as React from "react";
 import "./App.css";
 
 function App() {
-  return <main>New website</main>;
+  return <main>Starting point</main>;
 }
 
 export default App;
