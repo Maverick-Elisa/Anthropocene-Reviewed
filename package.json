@@ -22,7 +22,7 @@
     "prettier": "^2.7.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "vite": "^2.9.5"
+    "vite": "^3.0.0"
   },
   "prettier": {
     "bracketSpacing": true,
