@@ -1,5 +1,4 @@
-run="npm run dev"
-entrypoint="src/App.jsx"
+run = "npm run dev"
 
 [nix]
 channel = "stable-21_11"
